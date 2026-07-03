@@ -26,8 +26,8 @@
 ## 🎯 Problem Statement
 
 Computer vision is one of the most impactful areas of AI — but building a working image classification system from scratch means wiring together TensorFlow, pretrained weights, image preprocessing pipelines, and a web server, all at once.
-
-**VisionIQ** solves this by packaging three state-of-the-art pretrained CNN models behind a clean REST API and a drag-and-drop web interface — **zero training required, zero API key needed, runs entirely on your machine.**
+info
+**Image ** solves this by packaging three state-of-the-art pretrained CNN models behind a clean REST API and a drag-and-drop web interface — **zero training required, zero API key needed, runs entirely on your machine.**
 
 ### Real-World Use Cases
 | Domain | Application |
@@ -104,7 +104,7 @@ Every uploaded image is automatically analysed for:
 ## 📁 Project Structure
 
 ```
-VisionIQ-Image-Recognition/
+Image Info/
 │
 ├── 📄 app.py                        # Flask entry point — all 7 routes
 │
@@ -426,7 +426,7 @@ Free to use, modify, and distribute with attribution.
 
 ## 👤 Author
 
-**Bansari Patel**
+**Riddhi**
 
 [![GitHub](https://img.shields.io/badge/GitHub-Bansaripatel02-181717?style=flat-square&logo=github)](https://github.com/Bansaripatel02)
 
@@ -434,7 +434,7 @@ Free to use, modify, and distribute with attribution.
 
 <div align="center">
 
-**⭐ If VisionIQ helped you learn or ship faster, please star the repo!**
+**⭐ If Image Info helped you learn or ship faster, please star the repo!**
 
 *Built as part of a Deep Learning & Python portfolio*
 
